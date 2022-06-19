@@ -26,7 +26,7 @@
   <scm>
     <connection>scm:git:git@github.com:quartz-scheduler/quartz.git</connection>
     <developerConnection>scm:git:git@github.com:quartz-scheduler/quartz.git</developerConnection>
-    <tag />
+    <tag/>
     <url>https://github.com/quartz-scheduler/quartz</url>
   </scm>
   <issueManagement>
@@ -72,7 +72,7 @@
     <skipCheckstyle>false</skipCheckstyle>
     <slf4j.version>1.7.36</slf4j.version>
     <c3p0.version>0.9.5.5</c3p0.version>
-    <hikaricp.version>3.4.5</hikaricp.version>
+    <hikaricp.version>5.0.1</hikaricp.version>
     <log4j.version>1.2.17</log4j.version>
     <gmaven-plugin.version>1.4</gmaven-plugin.version>
     <checkstyle-suppressions-file>${user.dir}/checkstyle/src/main/resources/suppressions.xml</checkstyle-suppressions-file>
@@ -106,7 +106,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -123,7 +123,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -136,7 +136,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -149,7 +149,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
                 <pluginExecution>
@@ -162,7 +162,7 @@
                     </goals>
                   </pluginExecutionFilter>
                   <action>
-                    <ignore />
+                    <ignore/>
                   </action>
                 </pluginExecution>
               </pluginExecutions>
